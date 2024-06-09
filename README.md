@@ -1,9 +1,8 @@
 # Popy:
 ## Seja bem vindo ao perfil DEV do Canal POP Start. 👋
 ### parceiros
-> 🙎‍♂️ Phenrry Pereira <a href=https://www.youtube.com/@escoladephotodesign/videos>Escola de Photodesign</a><br>
+> <img src="https://avatars.githubusercontent.com/u/91348519?v=4" width="50"> 🙎‍♂️ Phenrry Pereira <a href=https://www.youtube.com/@escoladephotodesign/videos>Escola de Photodesign</a><br>
 > 🐸 Joy Frog
-> <img src="https://avatars.githubusercontent.com/u/91348519?v=4">
 <!--
 **Vinicius-PyDev/Vinicius-PyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
