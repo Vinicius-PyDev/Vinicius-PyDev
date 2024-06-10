@@ -11,7 +11,7 @@
 ><img src="sql.png" width="45"> SQL
 ><img src="git.png" width="45"> Git
 ><img src="obs.png" width="45"> OBS
-><img src="gimp.png" width="45"> Gimp
+><img src="gimp.png" width="45"> Gimp<br>
 ><img src="libre_office_logo.png" width="45"> Libre Office
 ## Filosofias.
 - Saber usar o Windows não significa que você sabe usar um computador apenas significa que voce sabe usar um sistema operacional.
