@@ -6,10 +6,10 @@
 ## Saber usar o Windows não significa que voce sabe usar um computador.
 <img src="windows_command.png" width="50"> Nada é mais definitivo que uma gambiarra temporaria. 
 
-<img src="windows.png" width="50">
-<img src="tux.png" width="50">
-<img src="python.png" width="50">
-<img src="sql.png" width="50"> 
+><img src="windows.png" width="50"> Windows
+><img src="tux.png" width="50"> Linux
+><img src="python.png" width="50"> Python
+><img src="sql.png" width="45"> SQL
 <!--
 **Vinicius-PyDev/Vinicius-PyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
