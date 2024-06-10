@@ -8,7 +8,7 @@
 ### Tecnologias Favoritas.
 ><img src="windows.png" width="50"> Windows 
 ><img src="tux.png" width="50"> Linux 
-><img src="python.png" width="50"> Python 
+><img src="python.png" width="50">Python 
 ><img src="sql.png" width="45"> SQL
 ><img src="git.png" width="45"> Git 
 <!--
