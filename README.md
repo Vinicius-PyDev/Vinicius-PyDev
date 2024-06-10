@@ -5,7 +5,8 @@
 > <img src="Joy_Frog.png" width="50"> 🐸 Joy Frog
 ### Tecnologias Favoritas.
 ><img src="windows.png" width="50"> Windows 
-><img src="tux.png" width="50"> Linux 
+><img src="tux.png" width="50"> Linux
+><img src="KDE neon.png" width="50"> KDE neon
 ><img src="python.png" width="50">Python 
 ><img src="sql.png" width="45"> SQL
 ><img src="git.png" width="45"> Git
