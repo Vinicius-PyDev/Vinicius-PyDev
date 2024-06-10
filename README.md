@@ -9,7 +9,7 @@
 ><img src="python.png" width="50">Python 
 ><img src="sql.png" width="45"> SQL
 ><img src="git.png" width="45"> Git
-><img src="obs" width="45"> OBS
+><img src="obs.png" width="45"> OBS
 ><img src="gimp.png" width="45"> Gimp
 ## Filosofias.
 - Saber usar o Windows não significa que você sabe usar um computador apenas significa que voce sabe usar um sistema operacional.
