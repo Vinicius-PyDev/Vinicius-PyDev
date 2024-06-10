@@ -11,7 +11,8 @@
 ><img src="git.png" width="45"> Git
 ## Filosofias.
 - Saber usar o Windows não significa que você sabe usar um computador apenas significa que voce sabe usar um sistema operacional.
-- Nada é mais definitivo que uma gambiarra temporaria. 
+- Nada é mais definitivo que uma gambiarra temporaria.
+- Comece onde você esta use o que voce tem e faça o que voce pode. 
 <!--
 **Vinicius-PyDev/Vinicius-PyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
