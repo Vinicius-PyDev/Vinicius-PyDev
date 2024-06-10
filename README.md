@@ -9,7 +9,8 @@
 ><img src="windows.png" width="50"> Windows 
 ><img src="tux.png" width="50"> Linux 
 ><img src="python.png" width="50"> Python 
-><img src="sql.png" width="45"> SQL 
+><img src="sql.png" width="45"> SQL
+><img src="Git.png" width="45"> Git 
 <!--
 **Vinicius-PyDev/Vinicius-PyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
