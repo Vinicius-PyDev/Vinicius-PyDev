@@ -8,8 +8,8 @@
 
 <img src="windows.png" width="50">
 <img src="tux.png" width="50">
-<img src="python" width="50">
-<img src="sql" width="50"> 
+<img src="python.png" width="50">
+<img src="sql.png" width="50"> 
 <!--
 **Vinicius-PyDev/Vinicius-PyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
