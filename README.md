@@ -1,8 +1,8 @@
 # Popy:
 ## Seja bem vindo ao perfil DEV do Canal POP Start. 👋
-### Carreira
-<p>2 anos como professor presencial
-<p>2 anos como peofessor EAD (Autonomo)
+<p>2 anos como professor presencial</p>
+<p>2 anos como peofessor EAD (Autonomo)</p>
+
 ### parceiros
 > <img src="https://avatars.githubusercontent.com/u/91348519?v=4" width="50"> 🙎‍♂️ Phenrry Pereira <a href=https://www.youtube.com/@escoladephotodesign/videos>Escola de Photodesign</a><br>
 > <img src="Joy_Frog.png" width="50"> 🐸 Joy Frog
