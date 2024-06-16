@@ -17,6 +17,7 @@
 ><img src="gimp.png" width="45"> Gimp<br>
 ><img src="libre_office_logo.png" width="45"> Libre Office
 ><img src="7-Zip.png" width="45"> 7-Zip
+>><img src="Ren'py.png" width="45"> Ren'py
 ## Filosofias.
 - Saber usar o Windows não significa que você sabe usar um computador apenas significa que voce sabe usar um sistema operacional.
 - Nada é mais definitivo que uma gambiarra temporaria.
