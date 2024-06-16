@@ -11,10 +11,10 @@
 ><img src="tux.png" width="50"> Linux
 ><img src="KDE neon.png" width="50"> KDE neon
 ><img src="python.png" width="50">Python 
-><img src="sql.png" width="45"> SQL
+><img src="sql.png" width="40"> SQL
 ><img src="git.png" width="45"> Git
 ><img src="obs.png" width="45"> OBS
-><img src="gimp.png" width="45"> Gimp<br>
+><img src="gimp.png" width="50"> Gimp<br>
 ><img src="libre_office_logo.png" width="45"> Libre Office
 ><img src="7-Zip.png" width="55"> 7-Zip
 ><img src="Ren'py.png" width="40"> Ren'py
