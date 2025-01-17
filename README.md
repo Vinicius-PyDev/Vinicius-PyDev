@@ -19,6 +19,11 @@
 ><img src="7-Zip.png" width="55"> 7-Zip
 ><img src="Ren'py.png" width="40"> Ren'py
 
+```py
+Perfil =  {"Tecnologias Favoritas": ["Windows", "Linux"]}
+
+```
+
 <!--
 **Vinicius-PyDev/Vinicius-PyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
