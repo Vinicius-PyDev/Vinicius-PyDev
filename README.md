@@ -18,10 +18,7 @@
 ><img src="libre_office_logo.png" width="45"> Libre Office
 ><img src="7-Zip.png" width="55"> 7-Zip
 ><img src="Ren'py.png" width="40"> Ren'py
-## Filosofias.
-- Saber usar o Windows não significa que você sabe usar um computador apenas significa que voce sabe usar um sistema operacional.
-- Nada é mais definitivo que uma gambiarra temporaria.
-- Comece onde você esta use o que voce tem e faça o que voce pode. 
+
 <!--
 **Vinicius-PyDev/Vinicius-PyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
