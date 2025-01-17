@@ -24,9 +24,16 @@ perfil = {
    "Tecnologias Favoritas": [
       "Windows",
       "Linux",
-      "KDE neon",
+      "SQL",
       "Python",
-      "SQL"
+      "SQL",
+      "Bash",
+      "Git",
+      "Debian",
+      "Manjaro",
+      "SSH",
+      "Rufus",
+      "Balena"
    ]
 }
 ```
