@@ -22,11 +22,7 @@
 ```py
 perfil = {
    "Tecnologias Favoritas": [
-      "Windows",
-      "Linux",
-      "SQL",
-      "Python",
-      "SQL",
+      "Windows", "Linux", "SQL", "Python", "SQL",
       "Bash",
       "Git",
       "Debian",
