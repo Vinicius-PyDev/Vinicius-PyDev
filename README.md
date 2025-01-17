@@ -23,6 +23,9 @@
 perfil = {
    "Tecnologias Favoritas": [
       "Windows", "Linux", "SQL", "Python", "SQL", "Bash", "Git", "Debian", "Manjaro", "SSH", "Rufus", "Balena"
+   ],
+   "Tecnologias Secundarios": [
+       "Firefox", "OBS", "LibreOffice", "Gimp", "Kdenlive", "VLC", "Digikam", "Audacity", "KDE Connect", "7-Zip"
    ]
 }
 ```
