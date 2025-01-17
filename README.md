@@ -20,7 +20,9 @@
 ><img src="Ren'py.png" width="40"> Ren'py
 
 ```py
-Perfil =  {"Tecnologias Favoritas": ["Windows", "Linux"]}
+Perfil =  {
+    "Tecnologias Favoritas": [
+        "Windows", "Linux", "KDE neon", "Python", "SQL"]}
 
 ```
 
